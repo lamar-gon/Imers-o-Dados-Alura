@@ -61,6 +61,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+
+ou pode clicar no link > https://imers-o-dados-alura-x5yp5gyvd5jjgyecbxfhy9.streamlit.app/
 ## Resultados
 
 O dashboard permite analisar informações salariais de profissionais de dados por diferentes perspectivas, facilitando a identificação de tendências e padrões do mercado.
